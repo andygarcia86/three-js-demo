@@ -15,3 +15,8 @@ The Three JS Demo, is a 3D graphical sample using the Three JS open source libra
 - dat.gui
 - OrbitControls
 
+## Run it local
+
+This project use static (HTML/CSS/Javascrip), so, you can serve the index.html with any web-serever, such as IIS (Internet Information Service), Apache, etc.
+
+
